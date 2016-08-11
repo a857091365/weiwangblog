@@ -1,11 +1,12 @@
-###Android 后台发送邮件
+### Android 后台发送邮件
 jar地址：[mail三件套](http://yunpan.cn/cuj3r8xgUVSzt) （提取码：a210）
 
 demo地址: [EmailSenderDemo](http://yunpan.cn/cuj38ISwAy5hp) （提取码：68bc）
-####用到的权限
-  <uses-permission android:name="android.permission.SEND_SMS" />
-   
-  <uses-permission android:name="android.permission.INTERNET" />    
+#### 用到的权限
+ 
+  uses-permission android:name="android.permission.SEND_SMS" 
+  
+  uses-permission android:name="android.permission.INTERNET"  
    
    
 ####使用代码
