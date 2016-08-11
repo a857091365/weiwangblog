@@ -9,3 +9,9 @@
 * [MaterialLogin](https://github.com/shem8/MaterialLogin) Material风格的login界面
 * [微信抢红包外挂源码](https://github.com/lendylongli/qianghongbao)
 * [RecyclerViewManager](https://github.com/Syehunter/RecyclerViewManager)
+* [FlatBuffers 体验](http://www.race604.com/flatbuffers-intro/?utm_source&#x3D;tuicool&amp;utm_medium&#x3D;referral)
+一种数据序列化的工具
+* [什么是DeepLink](http://blog.zhaiyifan.cn/2016/02/04/deeplink-intro/)
+一种支持从网页点击链接跳转到app的技术
+* [Android开发者应该知道的Kotlin](http://www.infoq.com/cn/news/2016/01/kotlin-android?utm_source=tuicool&utm_medium=referral)
+* [Android MVP模式 简单易懂的介绍方式](https://segmentfault.com/a/1190000003927200)
